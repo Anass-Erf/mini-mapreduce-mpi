@@ -1,0 +1,10 @@
+MPI is a message passing interface used for parallel programming.
+MapReduce is a programming model with map shuffle and reduce phases.
+This mini project implements word count using MPI.
+Apache Spark also implements distributed data processing.
+The project compares MPI MapReduce with Apache Spark.
+Map phase creates word counts.
+Shuffle phase sends the same words to the same reducer.
+Reduce phase aggregates all counts.
+MPI is explicit and educational.
+Spark is high level and powerful.

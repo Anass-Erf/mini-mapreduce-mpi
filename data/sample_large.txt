@@ -1,0 +1,40 @@
+Mini MapReduce with MPI demonstrates distributed computing.
+The map phase transforms input text into intermediate word counts.
+The shuffle phase groups identical words on the same reducer process.
+The reduce phase aggregates values and produces the final result.
+Apache Spark provides a high level engine for large scale data processing.
+MPI gives programmers direct control over communication between processes.
+This sample text repeats important project vocabulary for benchmarking.
+MapReduce MPI Spark data word count shuffle reduce parallel process engine.
+Mini MapReduce with MPI demonstrates distributed computing.
+The map phase transforms input text into intermediate word counts.
+The shuffle phase groups identical words on the same reducer process.
+The reduce phase aggregates values and produces the final result.
+Apache Spark provides a high level engine for large scale data processing.
+MPI gives programmers direct control over communication between processes.
+This sample text repeats important project vocabulary for benchmarking.
+MapReduce MPI Spark data word count shuffle reduce parallel process engine.
+Mini MapReduce with MPI demonstrates distributed computing.
+The map phase transforms input text into intermediate word counts.
+The shuffle phase groups identical words on the same reducer process.
+The reduce phase aggregates values and produces the final result.
+Apache Spark provides a high level engine for large scale data processing.
+MPI gives programmers direct control over communication between processes.
+This sample text repeats important project vocabulary for benchmarking.
+MapReduce MPI Spark data word count shuffle reduce parallel process engine.
+Mini MapReduce with MPI demonstrates distributed computing.
+The map phase transforms input text into intermediate word counts.
+The shuffle phase groups identical words on the same reducer process.
+The reduce phase aggregates values and produces the final result.
+Apache Spark provides a high level engine for large scale data processing.
+MPI gives programmers direct control over communication between processes.
+This sample text repeats important project vocabulary for benchmarking.
+MapReduce MPI Spark data word count shuffle reduce parallel process engine.
+Mini MapReduce with MPI demonstrates distributed computing.
+The map phase transforms input text into intermediate word counts.
+The shuffle phase groups identical words on the same reducer process.
+The reduce phase aggregates values and produces the final result.
+Apache Spark provides a high level engine for large scale data processing.
+MPI gives programmers direct control over communication between processes.
+This sample text repeats important project vocabulary for benchmarking.
+MapReduce MPI Spark data word count shuffle reduce parallel process engine.

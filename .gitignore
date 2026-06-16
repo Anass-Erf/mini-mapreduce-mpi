@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+data/uploaded_input.txt
+results/mpi_output_*.txt
+.DS_Store

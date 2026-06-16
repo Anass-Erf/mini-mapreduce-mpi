@@ -1,0 +1,5 @@
+engine,processes,input_file,execution_time_seconds
+MPI,2,/home/anass/Documents/Master-Ex/M1-S2/Systèmes/project/mini-mapreduce-mpi-web/data/sample_large.txt,0.486357
+MPI,4,/home/anass/Documents/Master-Ex/M1-S2/Systèmes/project/mini-mapreduce-mpi-web/data/sample_large.txt,0.472148
+MPI,6,/home/anass/Documents/Master-Ex/M1-S2/Systèmes/project/mini-mapreduce-mpi-web/data/sample_large.txt,0.514740
+Spark,local[*],/home/anass/Documents/Master-Ex/M1-S2/Systèmes/project/mini-mapreduce-mpi-web/data/sample_large.txt,10.566103
