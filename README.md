@@ -186,7 +186,7 @@ Spark provides a high-level API for distributed data processing. It automaticall
 
 For this small project, MPI may be faster for simple input because it has less framework overhead. Spark becomes more interesting when the data is larger and the processing pipeline is more complex.
 
-## What to Present to the Professor
+## What to present
 
 1. Explain the Word Count problem.
 2. Show the MPI code and identify Map, Shuffle, Reduce, and Gather.
